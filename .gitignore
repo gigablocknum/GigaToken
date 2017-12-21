@@ -1,0 +1,8 @@
+# truffle build directory
+build/
+
+#Visual Studio Code Work Space File
+GigaToken.code-workspace
+
+#Migration Results
+results/
